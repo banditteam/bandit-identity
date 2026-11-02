@@ -1,0 +1,16 @@
+﻿{
+    "schemaVersion":  "1.0",
+    "name":  "BANDIT",
+    "machineId":  "110591867174769515640969131871712719393190994968120611912378001608474481855991",
+    "did":  "did:peaq:110591867174769515640969131871712719393190994968120611912378001608474481855991",
+    "machineType":  "Robot",
+    "homeChain":  "Solana Mainnet",
+    "solanaOwner":  "4bodiyXRdsbGou3keqck37vXX8SxKRPVxP7WsDU5ATWH",
+    "peaqOperator":  "0x5ADA3799Ec3CC0B8F70b7CF5F5eF994d256CBe5c",
+    "registrationDate":  "2026-11-02",
+    "subscriptionTier":  "Basic",
+    "subscriptionStatus":  "active",
+    "bondedPEAQ":  "6.395916847",
+    "explorer":  "https://machines.peaq.xyz/machine/110591867174769515640969131871712719393190994968120611912378001608474481855991",
+    "metadata":  "https://raw.githubusercontent.com/banditteam/bandit-identity/main/metadata/bandit-profile.json"
+}

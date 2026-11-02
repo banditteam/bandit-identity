@@ -1,0 +1,45 @@
+﻿{
+    "schemaVersion":  "1.0",
+    "name":  "BANDIT",
+    "type":  "Robot",
+    "character":  "Raccoon",
+    "formFactor":  "Humanoid",
+    "description":  "BANDIT is an open-source, community-built physical meme humanoid. Its community develops robotic skills through simulation and software, bringing them toward real-world physical execution.",
+    "developmentStatus":  "In Development",
+    "homeChain":  "Solana Mainnet",
+    "owner":  "4bodiyXRdsbGou3keqck37vXX8SxKRPVxP7WsDU5ATWH",
+    "openSource":  true,
+    "hardware":  {
+                     "platform":  "RP1-based",
+                     "status":  "Physical development planned"
+                 },
+    "links":  {
+                  "website":  "https://getbandit.bot/",
+                  "x":  "https://x.com/Banditdotbot",
+                  "github":  "https://github.com/banditteam/",
+                  "image":  "https://raw.githubusercontent.com/banditteam/bandit-identity/main/assets/bandit.png"
+              },
+    "repositories":  {
+                         "robotics":  {
+                                          "url":  "https://github.com/banditteam/bandit-robotics",
+                                          "description":  "MuJoCo simulation, robot control, locomotion and learning"
+                                      },
+                         "simarena":  {
+                                          "url":  "https://github.com/banditteam/bandit-simarena-integration",
+                                          "description":  "SimArena integration and browser simulation testing"
+                                      },
+                         "motionStudio":  {
+                                              "url":  "https://github.com/banditteam/bandit-motion-studio",
+                                              "description":  "No-code robot motion creation, animation and sharing"
+                                          },
+                         "description":  {
+                                             "url":  "https://github.com/banditteam/bandit-description",
+                                             "description":  "URDF, meshes, textures and robot customization"
+                                         },
+                         "design":  {
+                                        "url":  "https://github.com/banditteam/bandit-design",
+                                        "description":  "Character design, shells and hardware exploration"
+                                    }
+                     },
+    "image":  "https://raw.githubusercontent.com/banditteam/bandit-identity/main/assets/bandit.png"
+}

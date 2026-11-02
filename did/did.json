@@ -1,0 +1,25 @@
+{
+  "verificationMethods": [
+    {
+      "id": "#solana-owner",
+      "methodType": "Ed25519VerificationKey2020",
+      "controller": "4bodiyXRdsbGou3keqck37vXX8SxKRPVxP7WsDU5ATWH",
+      "publicKeyMultibase": "z6Mki44gKDmryR5jvPtTLQaatDUXLhiojJdreQ2ShVS65gHf"
+    }
+  ],
+  "authentication": [
+    0
+  ],
+  "serviceEndpoints": [
+    {
+      "id": "#website",
+      "serviceType": "Website",
+      "serviceEndpoint": "https://getbandit.bot/"
+    },
+    {
+      "id": "#github",
+      "serviceType": "SourceCode",
+      "serviceEndpoint": "https://github.com/banditteam/bandit-robotics"
+    }
+  ]
+}

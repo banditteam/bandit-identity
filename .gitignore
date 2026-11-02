@@ -1,0 +1,11 @@
+﻿.env
+.env.*
+.venv/
+__pycache__/
+*.key
+*.pem
+*seed*
+*mnemonic*
+*identity-anchor*
+*.log
+.ows/
