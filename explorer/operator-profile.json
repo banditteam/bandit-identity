@@ -1,0 +1,11 @@
+﻿{
+    "address":  "0x5ada3799ec3cc0b8f70b7cf5f5ef994d256cbe5c",
+    "name":  "BANDIT",
+    "logo":  "https://raw.githubusercontent.com/banditteam/bandit-identity/main/assets/bandit-operator.png",
+    "website":  "https://getbandit.bot/",
+    "links":  [
+                  "https://x.com/Banditdotbot",
+                  "https://github.com/banditteam/bandit-identity"
+              ],
+    "about":  "BANDIT is an open-source, community-built physical meme humanoid. Its community develops robotic skills through simulation and software, bringing them to life in the real world."
+}

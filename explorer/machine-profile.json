@@ -1,0 +1,8 @@
+﻿{
+    "did":  "did:peaq:110591867174769515640969131871712719393190994968120611912378001608474481855991",
+    "name":  "BANDIT",
+    "maker":  null,
+    "banner":  "https://raw.githubusercontent.com/banditteam/bandit-identity/main/assets/bandit-banner.png",
+    "machineType":  "Robot",
+    "homeChain":  "Solana"
+}
