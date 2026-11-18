@@ -39,6 +39,7 @@ Official decentralized machine identity and public metadata for BANDIT, an open-
 - [Machine metadata](metadata/bandit-profile.json)
 - [DID document snapshot](did/did.json)
 - [On-chain registration](registration/machine.json)
+- [Peaq Announcement](https://x.com/peaq/status/2122385200575320234)
 
-The DID snapshot reflects the initial registration input. The blockchain remains the authoritative source for the current machine state.
-https://machines.peaq.xyz/machine/110591867174769515640969131871712719393190994968120611912378001608474481855991
+
+
